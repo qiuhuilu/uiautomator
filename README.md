@@ -1,1 +1,2 @@
 # uiautomator
+learning uiautomator
